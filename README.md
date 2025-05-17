@@ -4,8 +4,8 @@ Welcome to my 3D modeling portfolio! This repository contains Blender files I've
 
 ## Project: Lambogini Aventador
 
-- **Software**:blender 4.2
-- **Type**:3D Modeling
+- **Software**: blender 4.2
+- **Type**: 3D Modeling
 - **Discription**: Designed and Texturing the lamborghini-aventador car for Visualization. This model represent exterior of the car. Includes basic tecturing,lighting and rendering
 
 ## Preview
